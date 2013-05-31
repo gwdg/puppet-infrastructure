@@ -7,3 +7,6 @@
 [submodule "stdlib"]
 	path = stdlib
 	url = https://github.com/gwdg/puppetlabs-stdlib.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://pkasprzak@github.com/gwdg/puppetlabs-postgresql.git
