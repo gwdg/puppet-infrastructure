@@ -1,3 +1,6 @@
 [submodule "puppetdb"]
 	path = puppetdb
 	url = https://github.com/gwdg/puppetlabs-puppetdb.git
+[submodule "inifile"]
+	path = inifile
+	url = https://github.com/gwdg/puppetlabs-inifile.git
