@@ -13,3 +13,6 @@
 [submodule "concat"]
 	path = concat
 	url = https://github.com/gwdg/puppet-concat.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/gwdg/puppetlabs-apt.git
