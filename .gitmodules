@@ -4,3 +4,6 @@
 [submodule "inifile"]
 	path = inifile
 	url = https://github.com/gwdg/puppetlabs-inifile.git
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/gwdg/puppetlabs-stdlib.git
