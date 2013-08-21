@@ -12,7 +12,7 @@
 	url = https://pkasprzak@github.com/gwdg/puppetlabs-postgresql.git
 [submodule "concat"]
 	path = concat
-	url = https://github.com/gwdg/puppet-concat.git
+url=https://github.com/gwdg/puppetlabs-concat.git
 [submodule "apt"]
 	path = apt
 	url = https://github.com/gwdg/puppetlabs-apt.git
